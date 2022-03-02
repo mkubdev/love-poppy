@@ -12,7 +12,7 @@ export default function Home() {
       </div>
 
       <div className="text-white text-3xl font-bold text-center px-8">
-        <p>Une surprise t&apos;attends mon petit cul... 🌷</p>
+        <p>Une surprise t&apos;attends luva... 🌷</p>
       </div>
 
       {/* Button */}
